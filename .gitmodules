@@ -1,0 +1,4 @@
+[submodule "src/PjOutGame.Shared"]
+	path = src/PjOutGame.Shared
+	url = https://github.com/your-username/PjOutGame.Shared.git
+
