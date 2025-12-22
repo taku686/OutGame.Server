@@ -16,6 +16,6 @@
                           Version="7.0.8" />
     </ItemGroup>
     <ItemGroup>
-        <ProjectReference Include="..\PjOutGame.Shared\PjOutGame.Shared.csproj" />
+        <ProjectReference Include="src\PjOutGame.Shared\PjOutGame.Shared.csproj" />
     </ItemGroup>
 </Project>
